@@ -6,7 +6,6 @@ public class Main {
 		System.out.println("Adiós Mundo!!!!");
 		System.out.println("Guevara");
 		System.out.println("Sivera");
-
 	}
 
 }
